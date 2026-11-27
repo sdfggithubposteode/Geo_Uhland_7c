@@ -1,0 +1,1946 @@
+{
+  "Tropischer Regenwald weltweit.png": {
+    "image": {
+      "file": "Bilder/Tropischer Regenwald weltweit.png",
+      "width": 1752,
+      "height": 897
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 992,
+      "scale": 0.57078
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 512
+    },
+    "crop": {
+      "x": 108,
+      "y": 210,
+      "w": 1438,
+      "h": 572
+    },
+    "labels": [
+      {
+        "id": "noerdlicher_wendekreis",
+        "text": "nördlicher Wendekreis",
+        "box": {
+          "x": 940.0,
+          "y": 273.0,
+          "w": 203,
+          "h": 34
+        },
+        "point": {
+          "x": 940.0,
+          "y": 470.0
+        }
+      },
+      {
+        "id": "aequator",
+        "text": "Äquator",
+        "box": {
+          "x": 137.5,
+          "y": 405.0,
+          "w": 203,
+          "h": 34
+        },
+        "point": {
+          "x": 377.0,
+          "y": 537.0
+        }
+      },
+      {
+        "id": "suedlicher_wendekreis",
+        "text": "südlicher Wendekreis",
+        "box": {
+          "x": 589.5,
+          "y": 704.0,
+          "w": 203,
+          "h": 34
+        },
+        "point": {
+          "x": 733.0,
+          "y": 619.0
+        }
+      },
+      {
+        "id": "amazonas",
+        "text": "Amazonasbecken",
+        "box": {
+          "x": 478.5,
+          "y": 327.0,
+          "w": 203,
+          "h": 34
+        },
+        "point": {
+          "x": 598.0,
+          "y": 550.0
+        }
+      },
+      {
+        "id": "kongo",
+        "text": "Kongobecken",
+        "box": {
+          "x": 947.0,
+          "y": 702.0,
+          "w": 203,
+          "h": 34
+        },
+        "point": {
+          "x": 819.0,
+          "y": 548.0
+        }
+      },
+      {
+        "id": "suedostasien",
+        "text": "Südostasien",
+        "box": {
+          "x": 1312.5,
+          "y": 496.0,
+          "w": 203,
+          "h": 34
+        },
+        "point": {
+          "x": 1060.0,
+          "y": 496.0
+        }
+      }
+    ]
+  },
+  "Hadley-Zirkulation über Tropenlandschaft.png": {
+    "image": {
+      "file": "Bilder/Hadley-Zirkulation über Tropenlandschaft.png",
+      "width": 1754,
+      "height": 897
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 991,
+      "scale": 0.57013
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 511
+    },
+    "crop": {
+      "x": 0,
+      "y": 93,
+      "w": 1600,
+      "h": 834
+    },
+    "labels": [
+      {
+        "id": "aufsteigend",
+        "text": "aufsteigende Luftmassen",
+        "box": {
+          "x": 898.0,
+          "y": 130.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 825.0,
+          "y": 457.0
+        }
+      },
+      {
+        "id": "regenwolken",
+        "text": "Regenwolken (ITC)",
+        "box": {
+          "x": 477.5,
+          "y": 123.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 749.0,
+          "y": 352.0
+        }
+      },
+      {
+        "id": "hoehenwinde_l",
+        "text": "Höhenwinde",
+        "box": {
+          "x": 271.5,
+          "y": 174.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 462.0,
+          "y": 340.0
+        }
+      },
+      {
+        "id": "absinkend",
+        "text": "absinkende Luftmassen",
+        "box": {
+          "x": 0.0,
+          "y": 381.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 361.0,
+          "y": 458.0
+        }
+      },
+      {
+        "id": "passatwinde",
+        "text": "Passatwinde",
+        "box": {
+          "x": 834.0,
+          "y": 863.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 978.0,
+          "y": 608.0
+        }
+      },
+      {
+        "id": "hoehenwinde_r",
+        "text": "Höhenwinde",
+        "box": {
+          "x": 1031.5,
+          "y": 218.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 1142.0,
+          "y": 332.0
+        }
+      },
+      {
+        "id": "hoch_oben",
+        "text": "Hochdruckgebiet in der Höhe (H)",
+        "box": {
+          "x": 681.0,
+          "y": 184.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 802.0,
+          "y": 291.0
+        }
+      },
+      {
+        "id": "tief_boden",
+        "text": "Tiefdruckgebiet (T)",
+        "box": {
+          "x": 875.5,
+          "y": 472.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 798.0,
+          "y": 602.0
+        }
+      },
+      {
+        "id": "hoch_l",
+        "text": "Hochdruckgebiet (H)",
+        "box": {
+          "x": -9.5,
+          "y": 542.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 502.0,
+          "y": 604.0
+        }
+      },
+      {
+        "id": "hoch_r",
+        "text": "Hochdruckgebiet (H)",
+        "box": {
+          "x": 1357.5,
+          "y": 552.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 1094.0,
+          "y": 606.0
+        }
+      },
+      {
+        "id": "wueste_l",
+        "text": "Wendekreiswüste",
+        "box": {
+          "x": 1368.0,
+          "y": 691.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 1214.0,
+          "y": 645.0
+        }
+      },
+      {
+        "id": "wende_n",
+        "text": "nördlicher Wendekreis",
+        "box": {
+          "x": 278.0,
+          "y": 787.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 437.0,
+          "y": 699.0
+        }
+      },
+      {
+        "id": "aequator",
+        "text": "Äquator",
+        "box": {
+          "x": 659.5,
+          "y": 782.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 798.0,
+          "y": 703.0
+        }
+      },
+      {
+        "id": "wende_s",
+        "text": "südlicher Wendekreis",
+        "box": {
+          "x": 1029.5,
+          "y": 779.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 1165.0,
+          "y": 697.0
+        }
+      },
+      {
+        "id": "custom_0",
+        "text": "Wendekreiswüste",
+        "box": {
+          "x": -5.0,
+          "y": 711.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 391.0,
+          "y": 658.0
+        }
+      },
+      {
+        "id": "custom_1",
+        "text": "absinkende Luftmassen",
+        "box": {
+          "x": 1364.0,
+          "y": 437.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 1236.0,
+          "y": 464.0
+        }
+      },
+      {
+        "id": "custom_2",
+        "text": "Passatwinde",
+        "box": {
+          "x": 440.0,
+          "y": 863.0,
+          "w": 283,
+          "h": 34
+        },
+        "point": {
+          "x": 595.0,
+          "y": 613.0
+        }
+      }
+    ]
+  },
+  "Tropenwald im Wandel der Wetterstimmungen.png": {
+    "image": {
+      "file": "Bilder/Tropenwald im Wandel der Wetterstimmungen.png",
+      "width": 2172,
+      "height": 724
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 813,
+      "scale": 0.46041
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 333
+    },
+    "crop": {
+      "x": 270,
+      "y": 147,
+      "w": 1070,
+      "h": 456
+    },
+    "labels": [
+      {
+        "id": "morgen",
+        "text": "Morgens: heiter und klar",
+        "box": {
+          "x": 303.5,
+          "y": 177.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 415.0,
+          "y": 297.0
+        }
+      },
+      {
+        "id": "mittag",
+        "text": "Mittags: Quellwolken",
+        "box": {
+          "x": 563.5,
+          "y": 179.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 735.0,
+          "y": 360.0
+        }
+      },
+      {
+        "id": "nachmittag",
+        "text": "Nachmittags: Hitzegewitter",
+        "box": {
+          "x": 817.0,
+          "y": 180.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 950.0,
+          "y": 303.0
+        }
+      },
+      {
+        "id": "abend",
+        "text": "Abends: Aufklaren",
+        "box": {
+          "x": 1070.0,
+          "y": 180.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 1183.0,
+          "y": 352.0
+        }
+      }
+    ]
+  },
+  "Gewitter mit Ladungstrennung und Blitzen.png": {
+    "image": {
+      "file": "Bilder/Gewitter mit Ladungstrennung und Blitzen.png",
+      "width": 1754,
+      "height": 897
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 991,
+      "scale": 0.57013
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 511
+    },
+    "crop": {
+      "x": 50,
+      "y": 127,
+      "w": 1498,
+      "h": 758
+    },
+    "labels": [
+      {
+        "id": "pos_wolke",
+        "text": "positive Ladung",
+        "box": {
+          "x": 90.5,
+          "y": 290.0,
+          "w": 241,
+          "h": 34
+        },
+        "point": {
+          "x": 553.0,
+          "y": 334.0
+        }
+      },
+      {
+        "id": "aufwinde",
+        "text": "Aufwinde",
+        "box": {
+          "x": 1277.5,
+          "y": 486.0,
+          "w": 241,
+          "h": 34
+        },
+        "point": {
+          "x": 998.0,
+          "y": 421.0
+        }
+      },
+      {
+        "id": "eis",
+        "text": "Eiskristalle & Tropfen",
+        "box": {
+          "x": 518.5,
+          "y": 157.0,
+          "w": 241,
+          "h": 34
+        },
+        "point": {
+          "x": 701.0,
+          "y": 342.0
+        }
+      },
+      {
+        "id": "abwinde",
+        "text": "Abwinde",
+        "box": {
+          "x": 1248.5,
+          "y": 354.0,
+          "w": 241,
+          "h": 34
+        },
+        "point": {
+          "x": 849.0,
+          "y": 415.0
+        }
+      },
+      {
+        "id": "neg_wolke",
+        "text": "negative Ladung",
+        "box": {
+          "x": 80.5,
+          "y": 527.0,
+          "w": 241,
+          "h": 34
+        },
+        "point": {
+          "x": 590.0,
+          "y": 495.0
+        }
+      },
+      {
+        "id": "pos_boden",
+        "text": "positiv geladener Erdboden",
+        "box": {
+          "x": 673.0,
+          "y": 821.0,
+          "w": 241,
+          "h": 34
+        },
+        "point": {
+          "x": 815.0,
+          "y": 725.0
+        }
+      }
+    ]
+  },
+  "Regenwald-Nährstoffkreislauf im Querschnitt.png": {
+    "image": {
+      "file": "Bilder/Regenwald-Nährstoffkreislauf im Querschnitt.png",
+      "width": 1754,
+      "height": 896
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 991,
+      "scale": 0.57013
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 511
+    },
+    "crop": {
+      "x": 12,
+      "y": 131,
+      "w": 1588,
+      "h": 735
+    },
+    "labels": [
+      {
+        "id": "niederschlag",
+        "text": "Niederschlag",
+        "box": {
+          "x": 260.0,
+          "y": 161.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 444.0,
+          "y": 288.0
+        }
+      },
+      {
+        "id": "zersetzung",
+        "text": "Zersetzung (Kleinstlebewesen)",
+        "box": {
+          "x": 42.5,
+          "y": 662.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 334.0,
+          "y": 568.0
+        }
+      },
+      {
+        "id": "fallstreu",
+        "text": "Fallstreu",
+        "box": {
+          "x": 386.0,
+          "y": 760.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 689.0,
+          "y": 582.0
+        }
+      },
+      {
+        "id": "naehrstoffe",
+        "text": "Nährstoffe im Boden",
+        "box": {
+          "x": 573.0,
+          "y": 802.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 772.0,
+          "y": 713.0
+        }
+      },
+      {
+        "id": "biomasse",
+        "text": "lebende Biomasse",
+        "box": {
+          "x": 985.5,
+          "y": 162.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 1000.0,
+          "y": 273.0
+        }
+      },
+      {
+        "id": "kreislauf",
+        "text": "Kreislauf zurück zur Biomasse",
+        "box": {
+          "x": 1320.5,
+          "y": 407.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 1133.0,
+          "y": 455.0
+        }
+      },
+      {
+        "id": "wurzeln",
+        "text": "Aufnahme durch flache Wurzeln",
+        "box": {
+          "x": 1329.0,
+          "y": 636.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 1159.0,
+          "y": 656.0
+        }
+      },
+      {
+        "id": "custom_0",
+        "text": "tote Biomasse",
+        "box": {
+          "x": 618.0,
+          "y": 161.0,
+          "w": 277,
+          "h": 34
+        },
+        "point": {
+          "x": 681.0,
+          "y": 443.0
+        }
+      }
+    ]
+  },
+  "Regenwaldschichten mit Tieren und Pflanzen.png": {
+    "image": {
+      "file": "Bilder/Regenwaldschichten mit Tieren und Pflanzen.png",
+      "width": 1753,
+      "height": 897
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 992,
+      "scale": 0.57045
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 512
+    },
+    "crop": {
+      "x": 0,
+      "y": 158,
+      "w": 1562,
+      "h": 624
+    },
+    "labels": [
+      {
+        "id": "emergent",
+        "text": "Emergent (Überholer)",
+        "box": {
+          "x": 624.0,
+          "y": 188.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 580.0,
+          "y": 277.0
+        }
+      },
+      {
+        "id": "lianen",
+        "text": "Lianen",
+        "box": {
+          "x": 8.0,
+          "y": 452.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 518.0,
+          "y": 509.0
+        }
+      },
+      {
+        "id": "brettwurzeln",
+        "text": "Brettwurzeln",
+        "box": {
+          "x": 19.5,
+          "y": 691.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 425.0,
+          "y": 690.0
+        }
+      },
+      {
+        "id": "epiphyten",
+        "text": "Epiphyten (Aufsitzer)",
+        "box": {
+          "x": 6.5,
+          "y": 553.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 424.0,
+          "y": 563.0
+        }
+      },
+      {
+        "id": "dachschicht",
+        "text": "Kronendach Urwaldriesen",
+        "box": {
+          "x": 1249.0,
+          "y": 295.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 1183.0,
+          "y": 312.0
+        }
+      },
+      {
+        "id": "oberschoss2",
+        "text": "mittlere und obere Baumschicht",
+        "box": {
+          "x": 1256.0,
+          "y": 430.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 1198.0,
+          "y": 443.0
+        }
+      },
+      {
+        "id": "oberschoss1",
+        "text": "Strauchschicht",
+        "box": {
+          "x": 1254.0,
+          "y": 560.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 1206.0,
+          "y": 582.0
+        }
+      },
+      {
+        "id": "erdschicht",
+        "text": "Krautschicht",
+        "box": {
+          "x": 1256.5,
+          "y": 680.0,
+          "w": 275,
+          "h": 34
+        },
+        "point": {
+          "x": 1212.0,
+          "y": 699.0
+        }
+      }
+    ]
+  },
+  "Kreislauf des Wanderfeldbaus.png": {
+    "image": {
+      "file": "Bilder/Kreislauf des Wanderfeldbaus.png",
+      "width": 1448,
+      "height": 1086
+    },
+    "canvas": {
+      "width": 1320,
+      "height": 1020,
+      "scale": 0.49724
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 720,
+      "h": 540
+    },
+    "crop": {
+      "x": 61,
+      "y": 142,
+      "w": 1259,
+      "h": 748
+    },
+    "labels": [
+      {
+        "id": "wald",
+        "text": "1 · intaktes Waldstück",
+        "box": {
+          "x": 518.5,
+          "y": 172.0,
+          "w": 329,
+          "h": 34
+        },
+        "point": {
+          "x": 663.0,
+          "y": 318.0
+        }
+      },
+      {
+        "id": "jungwald",
+        "text": "5 · Fläche verlassen – Wald wächst nach",
+        "box": {
+          "x": 91.0,
+          "y": 289.0,
+          "w": 329,
+          "h": 34
+        },
+        "point": {
+          "x": 429.0,
+          "y": 495.0
+        }
+      },
+      {
+        "id": "faellen",
+        "text": "2 · Bäume fällen & trocknen",
+        "box": {
+          "x": 1028.5,
+          "y": 413.0,
+          "w": 329,
+          "h": 34
+        },
+        "point": {
+          "x": 892.0,
+          "y": 479.0
+        }
+      },
+      {
+        "id": "brennen",
+        "text": "3 · Abbrennen (Asche düngt)",
+        "box": {
+          "x": 1028.0,
+          "y": 687.0,
+          "w": 329,
+          "h": 34
+        },
+        "point": {
+          "x": 865.0,
+          "y": 720.0
+        }
+      },
+      {
+        "id": "felder",
+        "text": "4 · Felder bestellen",
+        "box": {
+          "x": 250.5,
+          "y": 826.0,
+          "w": 329,
+          "h": 34
+        },
+        "point": {
+          "x": 483.0,
+          "y": 701.0
+        }
+      }
+    ]
+  },
+  "Yanomami-Dorf im Regenwald.png": {
+    "image": {
+      "file": "Bilder/Yanomami-Dorf im Regenwald.png",
+      "width": 1448,
+      "height": 1086
+    },
+    "canvas": {
+      "width": 1320,
+      "height": 1020,
+      "scale": 0.49724
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 720,
+      "h": 540
+    },
+    "crop": {
+      "x": 91,
+      "y": 158,
+      "w": 1172,
+      "h": 703
+    },
+    "labels": [
+      {
+        "id": "wald",
+        "text": "Regenwald",
+        "box": {
+          "x": 148.5,
+          "y": 188.0,
+          "w": 262,
+          "h": 34
+        },
+        "point": {
+          "x": 394.0,
+          "y": 330.0
+        }
+      },
+      {
+        "id": "shabono",
+        "text": "Shabono (Gemeinschaftshaus)",
+        "box": {
+          "x": 121.0,
+          "y": 677.0,
+          "w": 262,
+          "h": 34
+        },
+        "point": {
+          "x": 458.0,
+          "y": 563.0
+        }
+      },
+      {
+        "id": "feuer",
+        "text": "Feuerstelle",
+        "box": {
+          "x": 970.5,
+          "y": 525.0,
+          "w": 262,
+          "h": 34
+        },
+        "point": {
+          "x": 843.0,
+          "y": 488.0
+        }
+      },
+      {
+        "id": "haengematten",
+        "text": "Hängematten",
+        "box": {
+          "x": 887.5,
+          "y": 263.0,
+          "w": 262,
+          "h": 34
+        },
+        "point": {
+          "x": 705.0,
+          "y": 398.0
+        }
+      },
+      {
+        "id": "platz",
+        "text": "zentraler Dorfplatz",
+        "box": {
+          "x": 967.0,
+          "y": 377.0,
+          "w": 262,
+          "h": 34
+        },
+        "point": {
+          "x": 650.0,
+          "y": 483.0
+        }
+      },
+      {
+        "id": "feld",
+        "text": "Feld (Wanderfeldbau)",
+        "box": {
+          "x": 859.5,
+          "y": 797.0,
+          "w": 262,
+          "h": 34
+        },
+        "point": {
+          "x": 913.0,
+          "y": 674.0
+        }
+      }
+    ]
+  },
+  "Palmöl-Lieferkette im Überblick.png": {
+    "image": {
+      "file": "Bilder/Palmöl-Lieferkette im Überblick.png",
+      "width": 2172,
+      "height": 724
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 813,
+      "scale": 0.46041
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 333
+    },
+    "crop": {
+      "x": 38,
+      "y": 157,
+      "w": 1314,
+      "h": 500
+    },
+    "labels": [
+      {
+        "id": "plantage",
+        "text": "Ölpalmenplantage",
+        "box": {
+          "x": 67.5,
+          "y": 384.0,
+          "w": 210,
+          "h": 34
+        },
+        "point": {
+          "x": 371.0,
+          "y": 432.0
+        }
+      },
+      {
+        "id": "ernte",
+        "text": "Ernte der Fruchtstände",
+        "box": {
+          "x": 512.0,
+          "y": 187.0,
+          "w": 210,
+          "h": 34
+        },
+        "point": {
+          "x": 602.0,
+          "y": 351.0
+        }
+      },
+      {
+        "id": "transport",
+        "text": "Transport",
+        "box": {
+          "x": 675.5,
+          "y": 593.0,
+          "w": 210,
+          "h": 34
+        },
+        "point": {
+          "x": 765.0,
+          "y": 431.0
+        }
+      },
+      {
+        "id": "muehle",
+        "text": "Ölmühle / Fabrik",
+        "box": {
+          "x": 901.0,
+          "y": 191.0,
+          "w": 210,
+          "h": 34
+        },
+        "point": {
+          "x": 988.0,
+          "y": 439.0
+        }
+      },
+      {
+        "id": "produkte",
+        "text": "Endprodukte & Biosprit",
+        "box": {
+          "x": 1112.0,
+          "y": 588.0,
+          "w": 210,
+          "h": 34
+        },
+        "point": {
+          "x": 1202.0,
+          "y": 433.0
+        }
+      }
+    ]
+  },
+  "Palmölplantage am Regenwaldrand.png": {
+    "image": {
+      "file": "Bilder/Palmölplantage am Regenwaldrand.png",
+      "width": 1672,
+      "height": 941
+    },
+    "canvas": {
+      "width": 1559,
+      "height": 1020,
+      "scale": 0.57386
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 959,
+      "h": 540
+    },
+    "crop": {
+      "x": 26,
+      "y": 210,
+      "w": 1506,
+      "h": 600
+    },
+    "labels": [
+      {
+        "id": "rodung",
+        "text": "frisch gerodete Fläche",
+        "box": {
+          "x": 56.0,
+          "y": 414.0,
+          "w": 216,
+          "h": 34
+        },
+        "point": {
+          "x": 599.0,
+          "y": 362.0
+        }
+      },
+      {
+        "id": "monokultur",
+        "text": "Monokultur (Ölpalmen)",
+        "box": {
+          "x": 56.0,
+          "y": 633.0,
+          "w": 216,
+          "h": 34
+        },
+        "point": {
+          "x": 438.0,
+          "y": 612.0
+        }
+      },
+      {
+        "id": "regenwald",
+        "text": "verbliebener Regenwald",
+        "box": {
+          "x": 1286.0,
+          "y": 348.0,
+          "w": 216,
+          "h": 34
+        },
+        "point": {
+          "x": 1110.0,
+          "y": 367.0
+        }
+      }
+    ]
+  },
+  "Ökologische Folgen der Abholzung.png": {
+    "image": {
+      "file": "Bilder/Ökologische Folgen der Abholzung.png",
+      "width": 1774,
+      "height": 887
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 980,
+      "scale": 0.5637
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 500
+    },
+    "crop": {
+      "x": 146,
+      "y": 154,
+      "w": 1454,
+      "h": 690
+    },
+    "labels": [
+      {
+        "id": "verdunstung_hoch",
+        "text": "hohe Verdunstung",
+        "box": {
+          "x": 290.5,
+          "y": 184.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 463.0,
+          "y": 419.0
+        }
+      },
+      {
+        "id": "sickerwasser",
+        "text": "Versickerung / Sickerwasser",
+        "box": {
+          "x": 175.5,
+          "y": 779.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 476.0,
+          "y": 658.0
+        }
+      },
+      {
+        "id": "naehrstoffe",
+        "text": "Nährstoffe im Boden",
+        "box": {
+          "x": 498.0,
+          "y": 780.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 538.0,
+          "y": 695.0
+        }
+      },
+      {
+        "id": "abfluss",
+        "text": "Oberflächenabfluss",
+        "box": {
+          "x": 1315.5,
+          "y": 634.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 1270.0,
+          "y": 648.0
+        }
+      },
+      {
+        "id": "verdunstung_gering",
+        "text": "geringe Verdunstung",
+        "box": {
+          "x": 1016.5,
+          "y": 188.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 1131.0,
+          "y": 452.0
+        }
+      },
+      {
+        "id": "temperatur",
+        "text": "große Temperaturschwankung",
+        "box": {
+          "x": 1318.5,
+          "y": 314.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 1264.0,
+          "y": 385.0
+        }
+      },
+      {
+        "id": "erosion",
+        "text": "Erosion",
+        "box": {
+          "x": 1306.0,
+          "y": 557.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 1121.0,
+          "y": 531.0
+        }
+      },
+      {
+        "id": "wenig_sicker",
+        "text": "kaum Versickerung",
+        "box": {
+          "x": 1319.0,
+          "y": 454.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 1234.0,
+          "y": 509.0
+        }
+      },
+      {
+        "id": "custom_0",
+        "text": "geringe Temperaturschwankungen",
+        "box": {
+          "x": 619.0,
+          "y": 185.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 600.0,
+          "y": 378.0
+        }
+      },
+      {
+        "id": "custom_1",
+        "text": "Verlust von Nährstoffen",
+        "box": {
+          "x": 933.0,
+          "y": 780.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 1137.0,
+          "y": 593.0
+        }
+      }
+    ]
+  },
+  "Tornado und Hurrikan im Vergleich.png": {
+    "image": {
+      "file": "Bilder/Tornado und Hurrikan im Vergleich.png",
+      "width": 1774,
+      "height": 887
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 980,
+      "scale": 0.5637
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 500
+    },
+    "crop": {
+      "x": 0,
+      "y": 119,
+      "w": 1588,
+      "h": 709
+    },
+    "labels": [
+      {
+        "id": "mutterwolke",
+        "text": "Mutterwolke (Gewitterzelle)",
+        "box": {
+          "x": 354.0,
+          "y": 149.0,
+          "w": 245,
+          "h": 34
+        },
+        "point": {
+          "x": 550.0,
+          "y": 333.0
+        }
+      },
+      {
+        "id": "tornado",
+        "text": "Tornado-Schlauch",
+        "box": {
+          "x": 23.0,
+          "y": 487.0,
+          "w": 245,
+          "h": 34
+        },
+        "point": {
+          "x": 502.0,
+          "y": 496.0
+        }
+      },
+      {
+        "id": "truemmer",
+        "text": "Trümmer am Erdboden",
+        "box": {
+          "x": 25.5,
+          "y": 592.0,
+          "w": 245,
+          "h": 34
+        },
+        "point": {
+          "x": 456.0,
+          "y": 635.0
+        }
+      },
+      {
+        "id": "regenbaender",
+        "text": "Regenbänder",
+        "box": {
+          "x": 875.5,
+          "y": 764.0,
+          "w": 245,
+          "h": 34
+        },
+        "point": {
+          "x": 1162.0,
+          "y": 646.0
+        }
+      },
+      {
+        "id": "auge",
+        "text": "Auge (windstill)",
+        "box": {
+          "x": 1312.5,
+          "y": 467.0,
+          "w": 245,
+          "h": 34
+        },
+        "point": {
+          "x": 1076.0,
+          "y": 496.0
+        }
+      },
+      {
+        "id": "wirbelsturm",
+        "text": "tropischer Wirbelsturm",
+        "box": {
+          "x": 897.5,
+          "y": 159.0,
+          "w": 245,
+          "h": 34
+        },
+        "point": {
+          "x": 1077.0,
+          "y": 447.0
+        }
+      }
+    ]
+  },
+  "Palmöl im Alltag_ Produktvielfalt rundherum.png": {
+    "image": {
+      "file": "Bilder/Palmöl im Alltag_ Produktvielfalt rundherum.png",
+      "width": 1536,
+      "height": 1024
+    },
+    "canvas": {
+      "width": 1410,
+      "height": 1020,
+      "scale": 0.52734
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 810,
+      "h": 540
+    },
+    "crop": {
+      "x": 0,
+      "y": 74,
+      "w": 1396,
+      "h": 779
+    },
+    "labels": [
+      {
+        "id": "biosprit",
+        "text": "Biosprit",
+        "box": {
+          "x": 27.5,
+          "y": 394.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 361.0,
+          "y": 446.0
+        }
+      },
+      {
+        "id": "suesswaren",
+        "text": "Süßwaren",
+        "box": {
+          "x": 342.0,
+          "y": 157.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 469.0,
+          "y": 341.0
+        }
+      },
+      {
+        "id": "tierfutter",
+        "text": "Tierfutter",
+        "box": {
+          "x": 96.0,
+          "y": 789.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 423.0,
+          "y": 653.0
+        }
+      },
+      {
+        "id": "palmfrucht",
+        "text": "Palmfrucht (Ausgangsstoff)",
+        "box": {
+          "x": 579.0,
+          "y": 104.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 700.0,
+          "y": 406.0
+        }
+      },
+      {
+        "id": "fertig",
+        "text": "Fertigprodukte",
+        "box": {
+          "x": 975.0,
+          "y": 165.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 925.0,
+          "y": 334.0
+        }
+      },
+      {
+        "id": "fett",
+        "text": "Nahrungsmittel & Fette",
+        "box": {
+          "x": 1125.5,
+          "y": 381.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 1024.0,
+          "y": 452.0
+        }
+      },
+      {
+        "id": "kosmetik",
+        "text": "Kosmetik & Pflege",
+        "box": {
+          "x": 1047.0,
+          "y": 691.0,
+          "w": 240,
+          "h": 34
+        },
+        "point": {
+          "x": 938.0,
+          "y": 631.0
+        }
+      }
+    ]
+  },
+  "Zwei Wälder, zwei Wurzelsysteme.png": {
+    "image": {
+      "file": "Bilder/Zwei Wälder, zwei Wurzelsysteme.png",
+      "width": 1774,
+      "height": 887
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 980,
+      "scale": 0.5637
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 500
+    },
+    "crop": {
+      "x": 21,
+      "y": 148,
+      "w": 1542,
+      "h": 686
+    },
+    "labels": [
+      {
+        "id": "mischwald",
+        "text": "Laubmischwald",
+        "box": {
+          "x": 437.5,
+          "y": 178.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 456.0,
+          "y": 296.0
+        }
+      },
+      {
+        "id": "laubfall",
+        "text": "Laubfall im Herbst",
+        "box": {
+          "x": 51.0,
+          "y": 471.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 554.0,
+          "y": 534.0
+        }
+      },
+      {
+        "id": "humus_dick",
+        "text": "dicke Humusschicht",
+        "box": {
+          "x": 69.5,
+          "y": 597.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 554.0,
+          "y": 571.0
+        }
+      },
+      {
+        "id": "wurzeln_tief",
+        "text": "tiefe Wurzeln",
+        "box": {
+          "x": 484.5,
+          "y": 770.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 412.0,
+          "y": 656.0
+        }
+      },
+      {
+        "id": "regenwald",
+        "text": "tropischer Regenwald",
+        "box": {
+          "x": 980.0,
+          "y": 180.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 1069.0,
+          "y": 382.0
+        }
+      },
+      {
+        "id": "brettwurzeln",
+        "text": "Brettwurzeln",
+        "box": {
+          "x": 1329.0,
+          "y": 439.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 1216.0,
+          "y": 515.0
+        }
+      },
+      {
+        "id": "wurzeln_flach",
+        "text": "flache Wurzeln",
+        "box": {
+          "x": 1332.5,
+          "y": 655.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 1131.0,
+          "y": 598.0
+        }
+      },
+      {
+        "id": "humus_duenn",
+        "text": "dünne Humusschicht",
+        "box": {
+          "x": 1336.5,
+          "y": 549.0,
+          "w": 196,
+          "h": 34
+        },
+        "point": {
+          "x": 1289.0,
+          "y": 558.0
+        }
+      }
+    ]
+  },
+  "Nachhaltige Ideen im Icon-Raster.png": {
+    "image": {
+      "file": "Bilder/Nachhaltige Ideen im Icon-Raster.png",
+      "width": 1448,
+      "height": 1086
+    },
+    "canvas": {
+      "width": 1320,
+      "height": 1020,
+      "scale": 0.49724
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 720,
+      "h": 540
+    },
+    "crop": {
+      "x": 0,
+      "y": 137,
+      "w": 1319,
+      "h": 802
+    },
+    "labels": [
+      {
+        "id": "recycling",
+        "text": "Recyclingpapier benutzen",
+        "box": {
+          "x": 202.5,
+          "y": 170.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 360.0,
+          "y": 275.0
+        }
+      },
+      {
+        "id": "fleisch",
+        "text": "wenig/kein Fleisch essen",
+        "box": {
+          "x": 474.5,
+          "y": 167.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 581.0,
+          "y": 264.0
+        }
+      },
+      {
+        "id": "drucken",
+        "text": "nur Nötiges drucken",
+        "box": {
+          "x": 24.0,
+          "y": 416.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 372.0,
+          "y": 512.0
+        }
+      },
+      {
+        "id": "fertig",
+        "text": "wenig Fertigprodukte",
+        "box": {
+          "x": 25.5,
+          "y": 581.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 568.0,
+          "y": 528.0
+        }
+      },
+      {
+        "id": "biosprit",
+        "text": "keinen Biosprit tanken",
+        "box": {
+          "x": 137.0,
+          "y": 818.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 370.0,
+          "y": 709.0
+        }
+      },
+      {
+        "id": "flasche",
+        "text": "Mehrwegflasche nutzen",
+        "box": {
+          "x": 425.5,
+          "y": 822.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 567.0,
+          "y": 715.0
+        }
+      },
+      {
+        "id": "wasser",
+        "text": "Leitungswasser trinken",
+        "box": {
+          "x": 740.5,
+          "y": 168.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 760.0,
+          "y": 312.0
+        }
+      },
+      {
+        "id": "beutel",
+        "text": "Stoffbeutel nutzen",
+        "box": {
+          "x": 1034.5,
+          "y": 263.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 967.0,
+          "y": 352.0
+        }
+      },
+      {
+        "id": "moebel",
+        "text": "keine Tropenholz-Möbel",
+        "box": {
+          "x": 1036.0,
+          "y": 406.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 784.0,
+          "y": 476.0
+        }
+      },
+      {
+        "id": "papier",
+        "text": "Papier mehrmals verwenden",
+        "box": {
+          "x": 1037.0,
+          "y": 571.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 937.0,
+          "y": 522.0
+        }
+      },
+      {
+        "id": "briefe",
+        "text": "Briefe an Konzerne schreiben",
+        "box": {
+          "x": 595.0,
+          "y": 875.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 734.0,
+          "y": 742.0
+        }
+      },
+      {
+        "id": "vorbild",
+        "text": "anderen ein Vorbild sein",
+        "box": {
+          "x": 865.5,
+          "y": 830.0,
+          "w": 252,
+          "h": 34
+        },
+        "point": {
+          "x": 929.0,
+          "y": 752.0
+        }
+      }
+    ]
+  }
+}
